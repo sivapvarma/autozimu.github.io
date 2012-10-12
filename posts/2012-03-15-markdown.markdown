@@ -1,0 +1,20 @@
+---
+title: Markdown
+description:
+categories: tech
+tags: [markdown]
+---
+
+Markdown, lightweight markup language, designed to be "easy-to-read, easy-to-write plain text format", suitable for web writers. Markdown users include but not limited to [Github][], [Bitbucket][], [Reddit][], [Stack Overflow][]. (Yeah, you got it. This blog is also written in Markdown.)
+
+[Github]: https://github.com/
+[Bitbucket]: https://bitbucket.org/
+[Reddit]: http://www.reddit.com/
+[Stack Overflow]: http://stackoverflow.com/
+
+
+More Info:
+
+* [@Wikipedia](http://en.wikipedia.org/wiki/Markdown)
+* [Markdown Project Home](http://daringfireball.net/projects/markdown/)
+* [Markdown 語法說明](http://markdown.tw/)
