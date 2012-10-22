@@ -1,6 +1,7 @@
 #!/usr/bin/env zsh
 # description: update pages on github
 
+git push
 ruhoh compile
 cp -r compiled/* github/
 cd github/
