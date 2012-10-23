@@ -2,10 +2,10 @@
 title: Markdown
 description:
 categories: tech
-tags: [markdown]
+tags: markdown
 ---
 
-Markdown, lightweight markup language, designed to be "easy-to-read, easy-to-write plain text format", suitable for web writers. Markdown users include but not limited to [Github][], [Bitbucket][], [Reddit][], [Stack Overflow][]. (Yeah, you got it. This blog is also written in Markdown.)
+Markdown, lightweight markup language, designed to be "easy-to-read, easy-to-write plain text format", suitable for web writers. Markdown users include but not limited to [Github][], [Bitbucket][], [Reddit][], [Stack Overflow][]. (Yeah, you got it. This blog is written in Markdown.)
 
 [Github]: https://github.com/
 [Bitbucket]: https://bitbucket.org/

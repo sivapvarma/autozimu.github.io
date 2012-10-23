@@ -7,9 +7,6 @@ description: autozimu's web log
 
 {{# posts_latest }}
 <div class="post">
-  <h3 class="title"><span class="date">{{ date }} &nbsp; </span><a href="{{url}}">{{title}}</a> </h3>
-
-  {{ description }}
-
+  <h3 class="title"><span class="date">{{ date }} &nbsp; </span><a href="{{url}}" title="{{description}}">{{title}}</a> </h3>
 </div>
 {{/ posts_latest }}
