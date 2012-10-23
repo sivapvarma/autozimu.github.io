@@ -20,7 +20,7 @@ Site powered by [ruhoh][] on [github][]. Sources are available at
 licenced under [CC-BY-3.0][].
 
 FYI, I am also available on [twitter][], [facebook][], [人人][], though
-I always feel uncomfortable with those SNSs.
+I have been always feeling uncomfortable with those SNSs.
 
 ## Site Changelog
 

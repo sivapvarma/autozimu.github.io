@@ -1,4 +1,4 @@
-title : autozimu
+title : Matrix 42
 tagline: autozimu's web log
 author :
   name : autozimu
@@ -9,8 +9,5 @@ author :
 
 navigation :
   - archive.html
-  - tags.html
-  - categories.html
-  - pages.html
+  - links.md
   - about.md
-

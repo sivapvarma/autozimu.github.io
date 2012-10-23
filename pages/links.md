@@ -1,6 +1,6 @@
 ---
 title: Links
-description: What I am interested in may interest you
+description: What I am interested in may also interest you
 ---
 
 ## Media & News
@@ -31,6 +31,7 @@ description: What I am interested in may interest you
 ## TeX & LaTeX & xeLaTeX & ctex
 [LaTeX Notes](http://www.dralpha.com/zh/tech/lnotes2.pdf "包老师的雷太赫排版系统简介")
 / [LaTeX Templates](http://www.latextemplates.com/ "The best source of quality LaTeX templates")
+/ [latexmk](http://www.phys.psu.edu/~collins/software/latexmk-jcc/ "automatic LaTeX document generation routine")
 / [fontspec](https://github.com/autozimu/ctex.fontspec "my ctex fontspec
 files for OS X")
 
