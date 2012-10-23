@@ -1,0 +1,3 @@
+[submodule "widgets/mathjax"]
+	path = widgets/mathjax
+	url = git@github.com:NSError/ruhoh-mathjax.git
