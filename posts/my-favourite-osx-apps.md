@@ -25,7 +25,7 @@ Linuxer 迫不得已的选择: Linux 的底层工具和社区支持异常强大,
 
 [stackexchange]: http://programmers.stackexchange.com/questions/51670/why-do-programmers-use-or-recommend-mac-os-x "Why do programmers use or recommend Mac OS X?"
 
-唔, 好像跑题了耶, 我今天是来推销 OS X 上的软件的, 不是来推销 OS X 的.从
+唔, 好像跑题了耶, 我今天是推销 OS X 上的软件的, 不是推销 OS X 的.从
 12年春节到现在, OS X 上软件也用了不少, 虽然不能在财务上支持一下软件的开
 发者, 只能在行动上表示对软件开发者的敬意了(嗯, 你懂的). 好了,  以下排名
 分先后:
@@ -41,7 +41,7 @@ Linuxer 迫不得已的选择: Linux 的底层工具和社区支持异常强大,
 * [Marked](http://markedapp.com/) — (Multi)Markdown 预览, 与nvALT为同一个作者
 * [Latexian](http://tacosw.com/latexian/) — 很好用的LaTeX editor, 我的本科毕业论文就是用这个写的. (现在彻底转向 MacVim + LaTexBox + snipmate)
 * [Google Drive](http://drive.google.com) — 我不是谷粉
-* [Messsges](http://en.wikipedia.org/wiki/Messages_(application)) — 系统自带, 这里提一下, 因为, 太好用了
+* [Messsges]() — 系统自带, 这里提一下, 因为, 太好用了
 * [1Password](https://agilebits.com/onepassword) — 非常著名的密码管理器, 也有Windows版, 但有点怀疑是不是亲生的
 * [AppCleaner](http://www.freemacsoft.net/appcleaner/) — 如果骚平用OSX的系统, 他肯定需要这款软件
 * [DaisyDisk](http://www.daisydiskapp.com/) — YJB 肯定需要这款软件, 128G的硬盘放不了太多学习资料
