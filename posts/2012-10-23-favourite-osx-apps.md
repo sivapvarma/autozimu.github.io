@@ -1,5 +1,5 @@
 ---
-title: my favourite apps on OS X
+title: My Favourite Apps in OS X
 date: '2012-10-23'
 description:
 categories:
