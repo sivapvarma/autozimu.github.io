@@ -6,8 +6,6 @@ categories: [Tech]
 tags: [Misc]
 ---
 
-> Where there is a wall, there is a way!
-
 ## What?
 
 GFW, 全称 The Great Firewall of China, 中国防火长城, 大陆政府的网络审查.
