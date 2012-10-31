@@ -1,5 +1,5 @@
 title : Matrix 42
-tagline: autozimu's web log
+tagline: autozimu's weblog
 author :
   name : autozimu
   email : autozimu@gmail.com
@@ -9,5 +9,7 @@ author :
 
 navigation :
   - archive.html
+  - categories.html
+  - tags.html
   - links.md
   - about.md

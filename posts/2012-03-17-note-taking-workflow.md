@@ -2,7 +2,7 @@
 title: Timeline of Note Taking Workflow
 description: 生命不息, 折腾不止
 categories:
-tags: [Byword, nvALT, Markdown, vim, OSX]
+tags: [Byword, nvALT, markdown, vim, OSX]
 ---
 
 做科学/技术的人总是要跟各种细节打交道, 细节多了,

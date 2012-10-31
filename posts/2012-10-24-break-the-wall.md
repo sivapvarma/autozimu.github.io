@@ -2,8 +2,8 @@
 title: Break the Wall:What? Why? How?
 date: '2012-10-24'
 description: Where there is a wall, there is a way!
-categories: [Tech]
-tags: [Misc]
+categories: [tech]
+tags: [misc]
 ---
 
 ## What?
