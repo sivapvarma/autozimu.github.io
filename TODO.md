@@ -1,5 +1,6 @@
 ## theme:
-* clean code according to http://html5boilerplate.com/
+* HTML framework http://html5boilerplate.com/
+* theme: stevelosh.com
 * fonts: EB Garamond / Caslon
 * slogon: 慎独.
 
@@ -7,8 +8,9 @@
 -----------
 
 ## name conventions
+* categories: set only one categories
 * categories, tags: lowercases, except special nouns
-* filename: keywords, specify exact name in title meta
+* filename: only keywords, specify the exact name in the metadata
 * heading level: start with 2, i.e. H2, H1 is for title
 
 ## feedburner RSS link:
