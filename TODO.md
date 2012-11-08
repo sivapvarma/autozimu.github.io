@@ -1,5 +1,4 @@
 ## theme:
-* HTML framework http://html5boilerplate.com/
 * theme: stevelosh.com
 * fonts: EB Garamond / Caslon
 * slogon: 慎独.
