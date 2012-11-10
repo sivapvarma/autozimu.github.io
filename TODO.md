@@ -3,6 +3,8 @@
 * fonts: EB Garamond / Caslon
 * slogon: 慎独.
 
+## posts:
+* 一个人的生活
 
 -----------
 
