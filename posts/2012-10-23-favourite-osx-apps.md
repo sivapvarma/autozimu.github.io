@@ -52,6 +52,7 @@ Linuxer 迫不得已的选择: Linux 的底层工具和社区支持异常强大,
 * [easyMule](http://www.verycd.com/groups/mac/540074.topic) — 木有verycd.com的日子里, 只能用客户端了
 * [SpeedTao](http://www.speedtao.net/) — 很看好的一个软件, 但作者好像不怎么勤奋, 追了这么久还是beta版
 * [TextMate](http://macromates.com/) — 很好, 很强大. 但我不用
+* [RCDefaultApp](http://www.rubicode.com/Software/RCDefaultApp/) -- 更改默认打开方式
 
 当然, OS X 的强大不知体现在 GUI, based on Unix 这一点是我背叛了
 ArchLinux 转向 OS X 的重要原因:

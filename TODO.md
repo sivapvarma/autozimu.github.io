@@ -5,6 +5,7 @@
 
 ## posts:
 * 一个人的生活
+* http://blog.sciencenet.cn/blog-660333-632832.html
 
 -----------
 
