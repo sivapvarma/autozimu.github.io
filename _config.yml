@@ -1,3 +1,14 @@
+safe:        true
+auto:        true
+server:      true
+
+markdown:    kramdown
+pygments:    true
+lsi:         true
+permalink:   pretty
+
+exclude:     []
+
 title : Matrix 42
 tagline: autozimu's weblog
 author :
