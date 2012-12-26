@@ -4,23 +4,17 @@ server:      true
 
 markdown:    kramdown
 pygments:    true
-lsi:         true
 permalink:   pretty
 
-exclude:     []
+exclude:     ['_posts']
 
-title : Matrix 42
-tagline: autozimu's weblog
-author :
-  name : autozimu
-  email : autozimu@gmail.com
-  github : autozimu
-  twitter : autozimu
-  feedburner : feeds.feedburner.com/Matrix42
+site:
+    title : Matrix 42
+    tagline: autozimu's weblog
+    feedburner : feeds.feedburner.com/Matrix42
 
-navigation :
-  - archive.html
-  - categories.html
-  - tags.html
-  - links.md
-  - about.md
+author:
+    name : autozimu
+    email : autozimu@gmail.com
+    github : autozimu
+    twitter : autozimu
