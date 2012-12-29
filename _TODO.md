@@ -1,4 +1,11 @@
-## posts:
+## finish posts
+
+* 2012-07-02-review-of-past-four-years.md
+* 2012-10-24-setup-python-for-scientific-computing.md
+* 2012-10-28-I-donot-like-snss.md
+
+
+## new posts
 
 * 一个人的生活
 * IM switch in vim
