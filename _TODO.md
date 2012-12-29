@@ -1,6 +1,7 @@
 ## posts:
 
 * 一个人的生活
+* IM switch in vim
 
 
 ## name conventions
