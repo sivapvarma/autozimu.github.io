@@ -1,21 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.site.title }}</title>
     <meta name="author" content="{{ site.author.name }}" />
-    <title>{{ page.title }} - Matrix 42</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+
+    <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="/css/style.css" rel="stylesheet" type="text/css">
+    <link href='/css/font.css' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
-<div class="" id="container">
-    <div class="" id="header">
+
+<div class="container">
+
+    <header class="row main-header">
+    <div class="span4 logo"><h3><a href="/">{{ site.site.title }}</a></h3></div>
+
+    <div class="span4 logo">
+        <nav>
+        <ul class="nav nav-pills pull-right">
+            <li class=""><a href="/archives">Archives</a></li>
+            <li class=""><a href="/about">About</a></li>
+        </ul>
+        </nav>
     </div>
-    <div class="" id="content">
+    </header>
+
+    <div class="content">
     {{ content }}
     </div>
-    <div class="" id="footer">
-    </div>
-</div>
-</body>
 
+    <hr>
+    <footer align="center">
+     <a href="https://twitter.com/{{ site.author.twitter }}">twitter</a> /
+     <a href="https://github.com/{{ site.author.github }}">github</a>
+     <br>
+     &copy; Creative Commons
+    </footer>
+</div> <! -- /container -->
+
+</body>
 </html>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: index
+title: Matrix 42
+tagline: autozimu's weblog
 ---
 
-
-This is a test
+This is a test, OK?

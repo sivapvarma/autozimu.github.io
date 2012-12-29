@@ -1,9 +1,10 @@
 ---
-title: Break the Wall:What? Why? How?
-date: '2012-10-24'
+title: Break the Wall
 description: Where there is a wall, there is a way!
+date: 2012-10-24
+layout: post
 categories: [tech]
-tags: 
+tags:
 ---
 
 ## What?
@@ -15,8 +16,7 @@ GFW, 全称 The Great Firewall of China, 中国防火长城, 大陆政府的网�
 
 No why. It shouldn't be like this.
 
-暂且不论GFW是否能达到其最初的设计目的 (更确切的, 我认为是适得其反), 私以
-为, 作为人最基本的权利, 言论的自由是应当, 也是必须, 享有的. 即使一个人讲
+暂且不论GFW是否能达到其最初的设计目的 (更确切的, 我认为是适得其反), 作为人最基本的权利, 言论的自由是应当, 也是必须享有的. 即使一个人讲
 得全是错话, 谁也不能阻止他讲话, 或者, 阻止别的人听到他讲话. 对于头脑健全
 的人, 自有其辨明是非的能力.
 
@@ -68,4 +68,3 @@ FYI, 校园网用户有福了, IPV6 协议默认就是加密的,
 
 ## References
 * [Wikipedia](http://en.wikipedia.org/wiki/Internet_censorship_in_the_People%27s_Republic_of_China#Technical_implementation "Internet censorship in the People's Republic of China")
-
