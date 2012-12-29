@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Break the Wall:What? Why? How?
+title: Break the Wall
 description: Where there is a wall, there is a way!
 categories: [tech]
 tags:
