@@ -3,7 +3,7 @@ auto:        true
 server:      true
 
 markdown:    kramdown
-permalink:   /blog/:year/:month/:day/:title/
+permalink:   /:year/:month/:day/:title/
 
 site:
     title : Matrix 42
