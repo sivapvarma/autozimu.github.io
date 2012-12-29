@@ -8,7 +8,7 @@ permalink:   /blog/:year/:month/:day/:title/
 
 site:
     title : Matrix 42
-    tagline: autozimu's weblog
+    description: autozimu's weblog
     feedburner : feeds.feedburner.com/Matrix42
 
 author:
