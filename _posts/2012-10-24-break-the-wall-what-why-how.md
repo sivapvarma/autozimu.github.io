@@ -31,7 +31,7 @@ No why. It shouldn't be like this.
    Plus](https://plus.google.com)
 2. __URL 过滤__ (URL filtering): 不是完全屏蔽网站, 而是当服务器和客户端传输
    某些敏感信息时中断链接. example: 在[Google
-   HK](http://www.google.com.hk "") 搜索"胡萝卜"
+   HK](http://www.google.com.hk) 搜索"胡萝卜"
 3. __包过滤__ (Packet filtering): URL 过滤的升级版. 检测包内是否含有关键词.
 4. 链接重置 (Connection reset): 如果之前链接因为关键词被中断, 之后所有的
    链接请求都会被屏蔽.
