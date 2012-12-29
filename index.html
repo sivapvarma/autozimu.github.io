@@ -1,0 +1,13 @@
+---
+layout: page
+title: Matrix 42
+tagline: autozimu's weblog
+---
+
+<h2>Latest Posts</h2>
+
+<ul>
+    {% for post in site.posts limit:5 %}
+        <li><span>{{ post.date | date: "%b %d, %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

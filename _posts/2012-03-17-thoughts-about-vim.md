@@ -1,8 +1,10 @@
 ---
+layout: post
 title: Random Thoughts about vim
 description:
 categories: vim
 tags: [vim]
+published: false
 ---
 
 > 作为 vimer , 怎可没有篇吐槽 vim 的 post?

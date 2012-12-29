@@ -1,7 +1,7 @@
 ---
+layout: post
 title: My Favourite Apps in OS X
-date: '2012-10-23'
-description:
+description: This is not an ad!
 categories:
 tags: OSX
 ---

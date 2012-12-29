@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Timeline of Note Taking Workflow
 description: 生命不息, 折腾不止
 categories:

@@ -1,8 +1,7 @@
 ---
+layout: post
 title: Break the Wall
 description: Where there is a wall, there is a way!
-date: 2012-10-24
-layout: post
 categories: [tech]
 tags:
 ---
