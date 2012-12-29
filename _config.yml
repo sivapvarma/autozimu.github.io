@@ -4,9 +4,7 @@ server:      true
 
 markdown:    kramdown
 pygments:    true
-permalink:   pretty
-
-exclude:     ['_posts']
+permalink:   /blog/:year/:month/:day/:title/
 
 site:
     title : Matrix 42
