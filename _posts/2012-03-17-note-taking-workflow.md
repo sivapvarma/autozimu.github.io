@@ -44,7 +44,7 @@ Velocity][], 心想, 大名鼎鼎的 Evernote 用着都不甚舒服,
 编写修改新的笔记, 世界终于清净了... 嗯, 等哪天发工资了, 给 nvALT
 的维护者捐点咖啡钱去.
 
-update 2012-10-23: 换用`vim`来写了 , `snipmate` + `vim-markdown`
+Update 2012-10-23: 换用`vim`来写了 , `snipmate` + `vim-markdown`
 
 [VimWiki]: http://code.google.com/p/vimwiki/
 [Zim]: http://zim-wiki.org/
