@@ -1,3 +1,7 @@
+## blog
+
+* about page
+
 ## finish posts
 
 * 2012-07-02-review-of-past-four-years.md
