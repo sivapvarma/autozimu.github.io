@@ -27,7 +27,7 @@ description: What I am interested in may also interest you
 [LaTeX Notes](http://www.dralpha.com/zh/tech/lnotes2.pdf "包老师的雷太赫排版系统简介")
 / [LaTeX Templates](http://www.latextemplates.com/ "The best source of quality LaTeX templates")
 
-## Linux & Unix & OS X
+## Linux & OS X
 
 [archlinux](https://www.archlinux.org/ "A simple, lightweight distribution")
 / [vbird](http://linux.vbird.org/ "鳥哥的 Linux 私房菜")
