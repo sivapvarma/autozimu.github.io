@@ -6,7 +6,6 @@ categories: [tech]
 tags: [Python, Julia]
 ---
 
-## Why Python?
 
 When I was undergraduate student, [MATLAB][] and C/C++ were my primary
 programming languages, in which the main work were image processing and
@@ -14,7 +13,7 @@ small demos. I chose them because MATLAB is widely used in academic
 world, and it is rather easy to get started, and I was already familiar
 with C/C++. The fact that I used this combination for about two years
 does not indicate I was satisfied by them (although in fact I was fairly
-satisfied by something). Both of them has apparent pros and cons.
+satisfied by something). Both of them have apparent pros and cons.
 
 * MATLAB
     * Pros
@@ -35,6 +34,7 @@ satisfied by something). Both of them has apparent pros and cons.
         * static/compiled language
         * no plotting system
 
+## Why Python?
 
 C/C++ is great for big science project, but for my daily work as a
 graduate student, it is no longer an option due to the frequent
