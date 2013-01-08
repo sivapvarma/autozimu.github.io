@@ -69,8 +69,8 @@ interfaces.
 
 ## Installing Python Packages
 
-On Linux/OSX platform, python has already been shipped within the
-system. There are mainly two different approach to install python
+For Linux/OSX users, python has already been shipped within the
+system. There are mainly two different approaches to install python
 packages. Firstly, all python packages could be installed via `pip`, a
 python package managing tool, which will download python packages and
 install them to appropriate locations. Usually, this is the recommended
@@ -112,7 +112,7 @@ class/object support, it will be hardly to be put on the schedule, as
 Julia focus intensively on efficiency. And the support for namespace
 compensate the need for object support at some points. Object
 Oriented Programming (OOP) is an excellent approach of programming, but
-it not the only one, and probably not the best one for scientific
+it is not the only one, and probably not the best one for scientific
 computing at most situations. As for the latter feature, the graphics
 solutions have long been discussed in the Julia communities, and some
 preliminary work have already been done.

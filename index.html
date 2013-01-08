@@ -5,8 +5,8 @@ title: Matrix 42
 
 <h2>Latest Posts</h2>
 
-<ul>
-    {% for post in site.posts limit:5 %}
+<ul class="posts">
+    {% for post in site.posts limit:7 %}
         <li><span>{{ post.date | date: "%b %d, %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

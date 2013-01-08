@@ -4,11 +4,22 @@
 }
 
 body {
-    border-top:7px solid #333;
+    border-top:2px solid #333;
 }
 
 .container {
     width: 700px;
+}
+
+.navbar-left {
+    width: 300px;
+    float: left;
+}
+
+.navbar-right{
+    width: 300px;
+    float: right;
+    height: 70px;
 }
 
 a {
@@ -19,22 +30,22 @@ a:hover {
     color:#333;
 }
 
-title-stats{
+.title-stats p {
     color: #666;
     margin-top: -22px;
     margin-bottom: 22px;
 }
 
 h1 {
-    font-size: 45px;
+    font-size: 32px;
     line-height: 50px;
     margin: 25px 0;
 }
 
 
 h2 {
-    font-size:32px;
-    line-height: 50px;
+    font-size:23px;
+    line-height: 25px;
     margin: 25px 0;
 }
 
@@ -68,36 +79,17 @@ p {
     margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
 }
 
-.welcome-message {
-    padding-top:7%;
+ul.posts {
+    list-style-type: none;
+    margin: 0;
 }
 
-.logo a {
-    color:#333;
-    text-decoration:none;
+ul.posts span {
+    color: #AAA;
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 80%;
 }
 
-.logo a:hover {
-    color:#F02311;
-}
-
-.post-list {
-    text-align:center;
-}
-
-.post-list a{
-    color:#333;
-}
-
-.post-list a:hover{
-    color:#F02311;
-    text-decoration:none !important;
-}
-
-.post {
-    margin-bottom:40px;
-    margin-top:20px;
-}
 
 ::selection {
     background: #fff2a8; /* Safari */
