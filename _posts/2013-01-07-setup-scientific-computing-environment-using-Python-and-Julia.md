@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setup Scientific Computing Environment using Python and Julia
+title: Setup Scientific Computing Environment Using Python and Julia
 description:
 categories: [tech]
 tags: [Python, Julia]
@@ -128,7 +128,7 @@ Finally, here is a screen shot when working on ECE 754 project 2 using
 [Julia][] + [pyplot.jl][].
 
 
-![screenshot julia](../images/screenshot-julia.png)
+![screenshot julia](/images/screenshot-julia.png)
 
 
 
