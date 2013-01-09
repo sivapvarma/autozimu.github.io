@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} - {{ site.site.title }}</title>
     <meta name="author" content="{{ site.author.name }}" />
     <meta name="description" content="{{ site.site.description }}">
@@ -9,43 +10,34 @@
     <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href='/css/fontface.css' rel='stylesheet' type='text/css'>
     <link href="/css/style.css" rel="stylesheet" type="text/css">
-    <meta name="viewport" content="width=device-width, initial-scale=0.8">
 </head>
 
 <body>
 
-<div class="container">
-
-    <header>
-        <nav class="header-left">
-        <ul class="nav nav-pills">
-            <li class=""><a href="/">{{ site.site.title }}</a></li>
-        </ul>
-        </nav>
-
-        <nav class="header-right">
+<div class="span8 container">
+    <div class="masthead">
         <ul class="nav nav-pills pull-right">
             <li class=""><a href="/archives.html">Archives</a></li>
             <li class=""><a href="/links.html">Links</a></li>
             <li class=""><a href="/about.html">About</a></li>
         </ul>
-        </nav>
-    </header>
+        <h3><a href="/">{{ site.site.title }}</a></h3>
+    </div>
 
     <div class="content">
     {{ content }}
     </div>
 
     <hr>
-    <footer>
-     <a href="https://twitter.com/{{ site.author.twitter }}">twitter</a> /
-     <a href="https://github.com/{{ site.author.github }}">github</a> /
-     <a href="{{ site.site.feedburner }}">rss</a> /
-     <a href="mailto:{{ site.author.email }}">email</a>
-     <br>
-     &copy; Creative Commons
-    </footer>
-</div> <!-- END container -->
+    <div class="footer">
+         <a href="https://twitter.com/{{ site.author.twitter }}">twitter</a> /
+         <a href="https://github.com/{{ site.author.github }}">github</a> /
+         <a href="{{ site.site.feedburner }}">rss</a> /
+         <a href="mailto:{{ site.author.email }}">email</a>
+         <br>
+         &copy; Creative Commons
+    </div>
+</div>
 
 {% include analytics %}
 

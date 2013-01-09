@@ -131,8 +131,6 @@ Finally, here is a screen shot when working on ECE 754 project 2 using
 ![screenshot julia](/images/screenshot-julia.png)
 
 
-
-
 [MATLAB]: http://www.mathworks.com/products/matlab/ "The Language of Technical Computing"
 [Homebrew]: http://mxcl.github.com/homebrew/  "The missing package manager for OS X"
 [Scipy Superpack]: http://fonnesbeck.github.com/ScipySuperpack/ "Recent builds of fundamental Python scientific computing packages for OS X"
