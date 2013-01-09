@@ -67,7 +67,7 @@ mathematics, `scikit-learn`, `mlpy` and `PyBrain` for machine learning.
 P.S. Another python package, `ipython` provides enhanced python terminal
 interfaces.
 
-## Installing Python Packages
+## Install Python Packages
 
 For Linux/OSX users, python has already been shipped within the
 system. There are mainly two different approaches to install python
