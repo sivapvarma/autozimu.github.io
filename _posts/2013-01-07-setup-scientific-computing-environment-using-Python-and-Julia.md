@@ -17,7 +17,7 @@ satisfied by something). Both of them have apparent pros and cons.
 
 * MATLAB
     * Pros
-        * easy to startup
+        * easy to get started
         * fit well for scientific computing, great support for vector
           and matrix manipulation
         * handy plotting system

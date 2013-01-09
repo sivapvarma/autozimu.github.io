@@ -8,18 +8,22 @@ body {
 }
 
 .container {
-    width: 700px;
+    width: 650px;
 }
 
-.navbar-left {
-    width: 300px;
+header {
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+nav.header-left {
+    width: 50%;
     float: left;
 }
 
-.navbar-right{
-    width: 300px;
+nav.header-right{
+    width: 50%;
     float: right;
-    height: 70px;
 }
 
 a {
@@ -68,16 +72,6 @@ p {
     margin-bottom:17px;
 }
 
-.main-header {
-    margin-top:4%;
-    margin-bottom:2%;
-}
-
-/* The white background content wrapper */
-.content {
-    padding: 20px;
-    margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
-}
 
 
 /*list posts: no bullets*/
