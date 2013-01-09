@@ -2,7 +2,7 @@
 layout: post
 title: Why I Donot Like SNSs
 description:
-categories:
+categories: internet
 tags:
 published: false
 ---

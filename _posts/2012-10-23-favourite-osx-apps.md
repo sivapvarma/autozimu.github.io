@@ -2,8 +2,8 @@
 layout: post
 title: My Favourite Apps in OS X
 description: This is not an ad!
-categories:
-tags: OSX
+categories: computer
+tags: [OSX]
 ---
 
 不少同学到了万恶的美帝后, 纷纷抛弃旧本本, 换上了苹果, 尤其是某有钱淫,竟

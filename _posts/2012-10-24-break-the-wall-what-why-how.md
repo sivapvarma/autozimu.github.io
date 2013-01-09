@@ -2,8 +2,8 @@
 layout: post
 title: Break the Wall
 description: Where there is a wall, there is a way!
-categories: [tech]
-tags:
+categories: computer
+tags: [GFW]
 ---
 
 ## What?
