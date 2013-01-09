@@ -79,17 +79,23 @@ p {
     margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
 }
 
+
+/*list posts: no bullets*/
 ul.posts {
     list-style-type: none;
     margin: 0;
 }
 
+/*using monospace font for date to keep aligned*/
 ul.posts span {
     color: #AAA;
     font-family: Monaco, "Courier New", monospace;
     font-size: 80%;
 }
 
+footer {
+    padding-bottom: 20px;
+}
 
 ::selection {
     background: #fff2a8; /* Safari */
