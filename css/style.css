@@ -1,5 +1,6 @@
 body {
     border-top: 2px solid #333;
+    font-size: 100%;
     font-family: 'OFL Sorts Mill Goudy','OFL Sorts Mill Goudy TT',serif;
     text-rendering: optimizeLegibility;
 }
@@ -16,29 +17,26 @@ body {
 }
 
 h1 {
-    font-size: 38.25px;
+    font-size: 2.0em;
 }
 
 
 h2 {
-    font-size:29.75px;
+    font-size: 1.5em;
 }
 
 h3 {
-    font-size: 21.25px;
+    font-size: 1.167em;
 }
 
 h4 {
-    font-size: 17px;
+    font-size: 1.167em;
 }
 
-h5 {
-    font-size: 14.45px;
+p {
+    font-size: 1.0em;
 }
 
-h6 {
-    font-size: 14.45px;
-}
 
 .footer {
     padding-bottom: 20px;
