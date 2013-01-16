@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Fix Input Method Switch Problem in vim "
-published: false
 tags: vim
 categories: computer
 ---
