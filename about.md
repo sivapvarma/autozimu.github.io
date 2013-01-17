@@ -3,6 +3,12 @@ layout: page
 title: About
 ---
 
+Hi, I am Junfeng Li (aka autozimu). I am currently a graduate student
+based on Hamilton, Ontario, Canada. If you want to contact me, drop me
+an [email]({{ site.author.email }}).
+
+I am also available at [twitter](https://twitter.com/{{ site.author.twitter }}) and [github](https://github.com/{{ site.author.github }}).
+
 ## Interests
 
 ### Media & News
@@ -12,7 +18,7 @@ title: About
 / [LinuxToy](http://linuxtoy.org/ "LinuxToy")
 / [Solidot](http://www.solidot.org/ "奇客的资讯，重要的东西")
 
-### Lang & Scientific Computing
+### Languages & Scientific Computing
 
 [Ruby](http://www.ruby-lang.org/ "A dynamic, interpreted, open source programming language with a focus on simplicity and productivity")
 / [TryRuby](http://tryruby.org/ "Code School - TryRuby")
@@ -24,12 +30,13 @@ title: About
 / [matplotlib](http://matplotlib.org/ "python plotting")
 / [IPython](http://ipython.org/ "Interactive Computing")
 
-### LaTeX
+### Typography
 
 [LaTeX Notes](http://www.dralpha.com/zh/tech/lnotes2.pdf "包老师的雷太赫排版系统简介")
 / [LaTeX Templates](http://www.latextemplates.com/ "The best source of quality LaTeX templates")
+/ [web typography](http://www.webtypography.net/ "The Elements of Typographic Style Applied to the Web -- A practical guide to web typography")
 
-### Linux & OS X
+### Systems & Utilities
 
 [archlinux](https://www.archlinux.org/ "A simple, lightweight distribution")
 / [vbird](http://linux.vbird.org/ "鳥哥的 Linux 私房菜")
@@ -53,7 +60,7 @@ title: About
 / [marked](http://markedapp.com/ "smart tools for smart writers")
 / [SourceTree](http://www.sourcetreeapp.com/ "free Mac client for Git and Mercurial version control systems")
 
-### vim & MacVim
+### Text Editor
 
 [MacVim](http://code.google.com/p/macvim/ "the text editor Vim for Mac OS X")
 / [openvim](http://openvim.com "Collection of Vim learning tools")
@@ -61,7 +68,7 @@ title: About
 / [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/ "a book for users of the Vim editor who want to learn how to customize Vim")
 / [vimified](http://zaiste.github.com/vimified/ "Ultimate, kick-ass VIM configuration on top of Vundle")
 
-### living styles
+### Living styles
 [zenhabits](http://zenhabits.net/ "finding simplicity in the daily chaos of our lives")
 / [GTD](http://en.wikipedia.org/wiki/Getting_Things_Done "Getting Things Done")
 / [Tennis](http://en.wikipedia.org/wiki/Tennis)
@@ -73,4 +80,5 @@ title: About
 ### Books
 
 [平凡的世界 -- 路遥](http://book.douban.com/subject/3523041/)
-/ []( "")
+/ [沉默的大多数 -- 王小波](http://book.douban.com/subject/1776683/)
+/ [红玫瑰与白玫瑰 -- 张爱玲](http://book.douban.com/subject/1014278/)
