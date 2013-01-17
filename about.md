@@ -9,7 +9,9 @@ an [email]({{ site.author.email }}).
 
 I am also available at [twitter](https://twitter.com/{{ site.author.twitter }}) and [github](https://github.com/{{ site.author.github }}).
 
-## Interests
+---
+
+## My Interests
 
 ### Media & News
 
