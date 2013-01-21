@@ -84,3 +84,5 @@ I am also available at [twitter](https://twitter.com/{{ site.author.twitter }}) 
 [平凡的世界 -- 路遥](http://book.douban.com/subject/3523041/)
 / [沉默的大多数 -- 王小波](http://book.douban.com/subject/1776683/)
 / [红玫瑰与白玫瑰 -- 张爱玲](http://book.douban.com/subject/1014278/)
+
+<!--vim: set nowrap:-->
