@@ -11,7 +11,7 @@
 ## new posts
 
 * 一个人的生活
-* why do I choose not to pursue a PhD degree?
+* PhD or not?
 
 
 ## name conventions
