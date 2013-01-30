@@ -21,7 +21,7 @@ Linuxer 迫不得已的选择: Linux 的底层工具和社区支持异常强大,
 乏; Windows 应用软件丰富, 但在 Windows 平台上写点代码简直就是灾难. 现阶
 段, 唯一平衡了 GUI 和 CLI 的可实用的系统只有苹果的 OS X, 虽然有时候 OS X
 和社区之间的不兼容性依然让人抓狂. 更多的细节分析看这里[stackexchange][](
-之前还看到一个系列的几片中文文章讲这个的, 但现在找不着了...)
+之前还看到一个系列的几篇中文文章讲这个的, 但现在找不着了...)
 
 [stackexchange]: http://programmers.stackexchange.com/questions/51670/why-do-programmers-use-or-recommend-mac-os-x "Why do programmers use or recommend Mac OS X?"
 
@@ -34,7 +34,6 @@ Linuxer 迫不得已的选择: Linux 的底层工具和社区支持异常强大,
 * [Alfred](http://www.alfredapp.com/) — 这货不是启动器
 * [Byword](http://bywordapp.com/) — 为数不多的花银子买的软件, 因为, 实在是太漂亮了
 * [Google Chrome](http://www.google.com/chrome) — 不解释
-* [Mozilla Firefox](http://www.mozilla.org/en-US/firefox) — 依然不解释
 * [iterm2](http://www.iterm2.com) — Terminal.app 的增强版
 * [SourcesTree](http://www.sourcetreeapp.com/) — 如果不知道什么是`git`, 那么也不需要知道这个是什么了
 * [nvALT](http://brettterpstra.com/project/nvalt/) — 神器, 就是丑了点
@@ -47,9 +46,7 @@ Linuxer 迫不得已的选择: Linux 的底层工具和社区支持异常强大,
 * [DaisyDisk](http://www.daisydiskapp.com/) — YJB 肯定需要这款软件, 128G的硬盘放不了太多学习资料
 * [Archiver](http://archiverapp.com/) — 做软件最NX的境界是做到让人注意不到它的存在
 * [Divvy](http://mizage.com/divvy/) — 窗口管理器, 没法跟Linux上的同类软件比, 但也将就着用吧
-* [DynamicLyrics](http://martianz.cn/dynamiclyrics/) — 枫叶国极北苦寒之地, 木得KTV, 只能对着屏幕吼了 (话说, 为毛狗日的腾讯现在还不放出QQ Music的Mac版本 ...)
-* [MusicSeekerX](http://blog.4321.la/article/2011-08-28-musicseekerx) — 与DynamicLyrics师出同门 (再次吐槽, QQ Music 你倒是快点现身啊)
-* [easyMule](http://www.verycd.com/groups/mac/540074.topic) — 木有verycd.com的日子里, 只能用客户端了
+* [QQ MUsic](http://y.qq.com/y/static/down/mac.html)
 * [SpeedTao](http://www.speedtao.net/) — 很看好的一个软件, 但作者好像不怎么勤奋, 追了这么久还是beta版
 * [TextMate](http://macromates.com/) — 很好, 很强大. 但我不用
 * [RCDefaultApp](http://www.rubicode.com/Software/RCDefaultApp/) -- 更改默认打开方式
@@ -60,9 +57,17 @@ ArchLinux 转向 OS X 的重要原因:
 * [autojump](https://github.com/joelthelion/autojump) — 聪明的 cd
 * [zsh](http://www.zsh.org/) — the last shell
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) — 因为zsh太强大了
+* [MacPorts](http://www.macports.org/)
 * [homebrew](http://mxcl.github.com/homebrew/) — The missing package manager for OS X (为毛都喜欢这样说)
 * [MacRuby](http://macruby.org) — 很有前途哦
 * [git](http://git-scm.com/) — 不解释
-* [ruhoh](http://ruhoh.com/) — static site generator
+* [jekyll](http://jekyllrb.com/) -- transform your text code into a monster
 
-如果你还嫌不够的话, check this Q&A, [Which OS X Applications do you find indispensable?](http://apple.stackexchange.com/questions/82/which-os-x-applications-do-you-find-indispensable)
+Want more? Check this Q&A, [Which OS X Applications do you find indispensable?](http://apple.stackexchange.com/questions/82/which-os-x-applications-do-you-find-indispensable)
+
+
+update 2013-01-29:
+
+* [为什么国外程序员爱用 Mac？
+](http://www.vpsee.com/2009/06/why-programmers-love-mac/)
+* [\[TL\] Re: \[初级\] 为何要选择 Mac？](http://www.vpsee.com/2010/05/re-tl-why-choose-a-mac/)
