@@ -26,7 +26,7 @@ reached the right direction, but the settings are wrong, and the result
 does not work as expected. The right settings are as follows
 
     set noimd
-    set imactivatekey=S
+    set imactivatekey=C-Space
     set iminsert=2
 
 Those settings have been tested on Mac OS X 10.8.2 with QQ拼音. `set
