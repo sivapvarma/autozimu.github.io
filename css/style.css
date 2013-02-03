@@ -1,8 +1,9 @@
 body {
     border-top: 2px solid #333;
-    font-size: 120%;
+    font-size: 110%;
     font-family: 'OFL Sorts Mill Goudy','OFL Sorts Mill Goudy TT',serif;
     text-rendering: optimizeLegibility;
+    background: white;
 }
 
 .container {
