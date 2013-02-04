@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Setup gpuocelot in Ubuntu 11.10"
+title: "Setup gpuocelot in Ubuntu 11.04"
 description: Finally, we got an emulator inside an emulator!
 tags: [gpu, emulator, ocelot, vagrant]
 categories: computer
@@ -30,7 +30,7 @@ installation procedure is not pleasant at all. Since gpuocelot seems to
 be a research oriented project, I am already lucky enough to get it
 work.  So I will log the main process in case someone else would
 reference. Note this is not an step-by-step instruction to setup
-gpuocelot in Ubuntu 11.10. I have skipped most details and there may
+gpuocelot in Ubuntu 11.04. I have skipped most details and there may
 exist mistakes and typos. So please be careful when reference. Any
 problems encountered, feel free to contact me.
 
@@ -41,7 +41,7 @@ want to dirty his hand.
 
 ## Setup compiler tools & dependencies for gpuocelot
 
-Firstly, [Ubuntu][] [11.10][] is needed. This is the most suggested platform
+Firstly, [Ubuntu][] [11.04][] is needed. This is the most suggested platform
 by the project. Also, [Ubuntu 12.04 also seems OK][1204]. Other linux
 distributions may also work. It would not work under Mac OS X 10.8.2,
 though.
@@ -50,7 +50,7 @@ Secondly, [CUDA toolkit 4.0][] is needed. Again, this is the suggested
 version.
 
 Thirdly, gcc-4.4 version is needed. Versions greater than gcc-4.4 is not
-supported by CUDA toolkit 4.0. The default gcc version in Ubuntu 11.10
+supported by CUDA toolkit 4.0. The default gcc version in Ubuntu 11.04
 is 4.5. So I have to downgrade. Installing gcc-4.4 and set as default
 compiler by typing
 
@@ -114,7 +114,7 @@ referencing this post, do not hesitate to contact me.
 [box]: http://docs.vagrantup.com/v1/docs/boxes.html
 [box download]: http://google.com
 [ubuntu]: http://www.ubuntu.com/
-[11.10]: http://releases.ubuntu.com/11.10/
+[11.04]: http://releases.ubuntu.com/11.04/
 [CUDA toolkit 4.0]: https://developer.nvidia.com/cuda-toolkit-40
 [example]: https://github.com/autozimu/ECE709/tree/master/hello
 [tmux]: http://tmux.sourceforge.net/
