@@ -112,7 +112,7 @@ referencing this post, do not hesitate to contact me.
 [VM]: http://en.wikipedia.org/wiki/Virtual_machine
 [vagrant]: http://www.vagrantup.com/
 [box]: http://docs.vagrantup.com/v1/docs/boxes.html
-[box download]: http://google.com
+[box download]: https://mega.co.nz/#!JdJXWYoT!SgoLyzUmu5UhuEiOaxhT9RqaZUtJIeg5Q73pfW2ZeMA
 [ubuntu]: http://www.ubuntu.com/
 [11.04]: http://releases.ubuntu.com/11.04/
 [CUDA toolkit 4.0]: https://developer.nvidia.com/cuda-toolkit-40
