@@ -4,8 +4,6 @@ title: Links
 description: What I am interested in may also interest you
 ---
 
-## My Interests
-
 ### Media & News
 
 [TED](http://www.ted.com/ "Ideas worth spreading")
