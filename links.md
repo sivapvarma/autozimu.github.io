@@ -13,15 +13,15 @@ description: What I am interested in may also interest you
 / [LinuxToy](http://linuxtoy.org/ "LinuxToy")
 / [Solidot](http://www.solidot.org/ "奇客的资讯，重要的东西")
 
-### Languages & Scientific Computing
+### Computer Languages & Scientific Computing
 
 [Ruby](http://www.ruby-lang.org/ "A dynamic, interpreted, open source programming language with a focus on simplicity and productivity")
 / [TryRuby](http://tryruby.org/ "Code School - TryRuby")
 / [Ruby-Doc](http://ruby-doc.org/ "Documenting the Ruby Language")
 / [Julia](http://julialang.org/ "A fresh approach to technical computing")
 / [Python](http://www.python.org/ "an interpreted, interactive, object-oriented, extensible programming language")
-/ [SciPy](http://www.scipy.org/ "Open Source Library of Scientific Tools")
 / [NumPy](http://numpy.scipy.org/ "Scientific Computing Tools For Python")
+/ [SciPy](http://www.scipy.org/ "Open Source Library of Scientific Tools")
 / [matplotlib](http://matplotlib.org/ "python plotting")
 / [IPython](http://ipython.org/ "Interactive Computing")
 
