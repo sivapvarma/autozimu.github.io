@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setup Scientific Computing Environment with Julia
+title: Setup Scientific Computing Environment with Python and Julia
 description:
 categories: work
 tags: [Python, Julia]
