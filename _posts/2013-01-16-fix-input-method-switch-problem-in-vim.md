@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fix Input Method Switch Problem in vim "
+title: "Fix Input Method Switch Problem in vim"
 tags: vim
 categories: computer
 ---
@@ -26,16 +26,24 @@ reached the right direction, but the settings are wrong, and the result
 does not work as expected. The right settings are as follows
 
     set noimd
-    set imactivatekey=C-Space
-    set iminsert=2
 
 Those settings have been tested on Mac OS X 10.8.2 with QQ拼音. `set
-noimd` is to specify no Input Method daemon. `set imactivatekey=S` is to
-specify key to switch Chinese and English input. You should change it to
-your own key if it is not `Shift`. `set iminsert=2` is to indicate
-remembering Input Method status and switch Input Method when leaving and
+noimd` is to specify never use input method except insert mode. That is,
+disable input method when leaving insert mode, and enable it when
 entering insert mode.
+
+This method is not work perfectly as expected, though. For the Chinese
+input method, if it is enabled, there could be two input mode, the
+English input mode and the Chinese input mode. Vim should remember the
+which input mode is in when disable the input method as leaving insert
+mode, and recovery the input mode when reenter the insert mode.
+Unfortunately, the above settings could not achieve this expectation.
+Instead, it will always be Chinese input mode when enter insert mode if
+the input method is turned on.
 
 References:
 
 1. [Vim中输入法与编码设置的FAQ](http://blah.blogsome.com/2007/08/23/vim_cn_faq/)
+
+
+- Update 2013-05-04: simplify settings and explain the imperfection.
