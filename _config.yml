@@ -3,6 +3,8 @@ safe:        true
 markdown:    kramdown
 permalink:   /blog/:year/:month/:day/:title/
 
+exclude: [.hyde.el]
+
 site:
     title : Matrix 42
     description: autozimu's weblog
