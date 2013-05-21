@@ -6,13 +6,13 @@ permalink:   /blog/:year/:month/:day/:title/
 exclude: [".hyde.el", "_drafts"]
 
 site:
-    title : Matrix 42
-    description: autozimu's weblog
-    feedburner : http://feeds.feedburner.com/Matrix42
-    production_url: http://autozimu.github.com
+    title : Junfeng Li
+    description: Junfeng Li's weblog
+    feedburner : http://feeds.feedburner.com/autozimu
+    production_url: http://autozimu.github.io
 
 author:
-    name : autozimu
+    name : Junfeng Li
     email : autozimu@gmail.com
     github : autozimu
     twitter : autozimu
