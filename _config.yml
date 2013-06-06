@@ -3,7 +3,7 @@ safe:        true
 markdown:    kramdown
 permalink:   /blog/:year/:month/:day/:title/
 
-exclude: [".hyde.el", "_drafts"]
+exclude: [TODO.md, NOTES.md]
 
 site:
     title : Junfeng Li
