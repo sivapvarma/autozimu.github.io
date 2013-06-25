@@ -1,7 +1,6 @@
 safe:        true
 
-markdown:    kramdown
-permalink:   /blog/:year/:month/:day/:title/
+permalink:   /posts/:year/:month/:day/:title/
 
 exclude: [TODO.md, NOTES.md]
 
