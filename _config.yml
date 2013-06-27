@@ -1,5 +1,6 @@
 safe:        true
 
+markdown:   kramdown
 permalink:   /posts/:year/:month/:day/:title/
 
 exclude: [TODO.md, NOTES.md]
