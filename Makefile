@@ -1,2 +1,2 @@
 CV:
-	cp ~/Documents/repos/CV/CV.pdf CV.pdf
+	cp ~/Documents/Jobs/CV/CV.pdf ./
