@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Links
+title: What I Use
 description: What I am interested in may also interest you
 ---
+
+## What I Use
 
 ### Media & News
 
 [TED](http://www.ted.com/ "Ideas worth spreading")
-/ [TEDtoChina](http://www.tedtochina.com/ "@TEDtoChina")
-/ [LinuxToy](http://linuxtoy.org/ "LinuxToy")
+/ [Hacker News](https://news.ycombinator.com/)
+/ [LinuxToy](http://linuxtoy.org/)
 / [Solidot](http://www.solidot.org/ "奇客的资讯，重要的东西")
 
 ### Computer Languages & Scientific Computing
@@ -33,19 +35,20 @@ description: What I am interested in may also interest you
 
 [archlinux](https://www.archlinux.org/ "A simple, lightweight distribution")
 / [vbird](http://linux.vbird.org/ "鳥哥的 Linux 私房菜")
-/ [Zsh](http://www.zsh.org/ "a shell designed for interactive use, although it is also a powerful scripting language")
+/ [zsh](http://www.zsh.org/ "a shell designed for interactive use, although it is also a powerful scripting language")
 / [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh "A handful of functions, auto-complete helpers, and stuff that makes you shout…")
 / [git](http://git-scm.com/ "free and open source distributed version control system")
 / [github](https://github.com/ "GitHub helps people build software together")
 / [Pro Git](http://git-scm.com/book "free book about git by Scott Chacon")
 / [MacPorts](www.macports.org/ "The MacPorts Project is an open-source community initiative to design an easy-to-use system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software on the Mac OS X operating system.")
+/ [homebrew](http://brew.sh/ "The missing package manager for OS X")
+/ [homebrew-cask](https://github.com/phinze/homebrew-cask "a friendly homebrew-style CLI workflow for the administration of Mac applications distributed as binaries")
 / [autojump](https://github.com/joelthelion/autojump "A cd command that learns")
 / [ack](http://betterthangrep.com/ "better than grep")
 / [Markdown](http://daringfireball.net/projects/markdown/ "a text-to-HTML conversion tool for web writers")
-/ [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)
 / [Chrome Browser](http://www.google.com/chrome "a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier")
 / [Alfred](http://www.alfredapp.com/ "Alfred is not a launcher")
-/ [Divvy](http://mizage.com/divvy/ "Window management at its finest")
+/ [Spectable](http://spectacleapp.com/ "Move and resize windows with ease.")
 / [iTerm2](http://www.iterm2.com "Mac OS Terminal Replacement")
 / [LaTeXiT](http://www.chachatelier.fr/latexit/ "LaTeXiT is a equation editor")
 / [Byword](http://bywordapp.com/ "beautiful and efficient text editor for Markdown and rich text")
@@ -56,7 +59,6 @@ description: What I am interested in may also interest you
 ### Text Editor
 
 [MacVim](http://code.google.com/p/macvim/ "the text editor Vim for Mac OS X")
-/ [openvim](http://openvim.com "Collection of Vim learning tools")
 / [vimcasts](http://vimcasts.org "free screencasts about Vim, the text editor")
 / [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/ "a book for users of the Vim editor who want to learn how to customize Vim")
 / [vimified](http://zaiste.github.com/vimified/ "Ultimate, kick-ass VIM configuration on top of Vundle")
@@ -77,4 +79,4 @@ description: What I am interested in may also interest you
 / [红玫瑰与白玫瑰 -- 张爱玲](http://book.douban.com/subject/1014278/)
 / [Just for Fun --  Linus Torvalds](http://book.douban.com/subject/1451172/)
 
-<!--vim: set nowrap:-->
+<!-- vim: nowrap -->
